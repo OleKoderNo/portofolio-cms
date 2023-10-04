@@ -28,5 +28,6 @@
 # Dotenv and similar local-only files
 *.local
 
-sanity.cli.js
-sanity.config.js
+/sanity.cli.js
+
+/sanity.config.js
