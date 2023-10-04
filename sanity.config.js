@@ -10,7 +10,7 @@ export default defineConfig({
   projectId: 'h83pbmqu', 
   dataset: 'production',
 
-  plugins: [deskTool(), visionTool()],
+  plugins: [deskTool(), visionTool()],   
 
   schema: {
     types: schemaTypes,
