@@ -1,7 +1,7 @@
 import projects from "./projects";
 import tags from "./tags";
 
-export const schemaTypes = [
+export default [
     projects,
     tags,
 ]
